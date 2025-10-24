@@ -5,4 +5,4 @@ pub mod state;
 pub mod utils;
 pub mod error;
 
-solana_program::declare_id!("Aadimi9WuNq1WH2NRe1hqVpad1vb14aQz24UG4CbHdjf");
+solana_program::declare_id!("SQLbDyA6CtobJBw7DV8U7yFWMjBitKwAf7YP8izZGZ5");
